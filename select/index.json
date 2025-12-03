@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ピルグリム",
+  "base_artist": "理芽",
+  "createdAt": "2025-12-03T05:16:22.375584Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピルグリム",
+      "artist": "神崎エルザ",
+      "has_synced": true,
+      "path": "select/01_ピルグリム_神崎エルザ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピルグリム",
+      "artist": "神崎エルザ (ReoNa)",
+      "has_synced": true,
+      "path": "select/02_ピルグリム_神崎エルザ_(ReoNa).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ピルグリム",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/03_ピルグリム_B'z.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ピルグリム",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/04_ピルグリム_理芽.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ANIMA(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/05_ANIMA(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Alive(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/06_Alive(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HUMAN(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/07_HUMAN(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lost(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/08_Lost(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rea(s)oN(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/09_Rea(s)oN(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SWEET HURT(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/10_SWEET_HURT(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Till the End(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/11_Till_the_End(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "VITA(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/12_VITA(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "forget-me-not(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/13_forget-me-not(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ないない(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/14_ないない(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "シャル・ウィ・ダンス？(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/15_シャル・ウィ・ダンス_(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "トウシンダイ(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/16_トウシンダイ(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ピルグリム",
+      "artist": "神崎エルザ starring ReoNa",
+      "has_synced": true,
+      "path": "select/17_ピルグリム_神崎エルザ_starring_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ピルグリム(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/18_ピルグリム(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "怪物の詩(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/19_怪物の詩(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピルグリム",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_ピルグリム_理芽.txt"
+    }
+  ]
+}
